@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,17 +55,17 @@
        sodipodi:type="star"
        style="fill:#000080;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path2985"
-       sodipodi:sides="5"
+       sodipodi:sides="4"
        sodipodi:cx="211.42857"
-       sodipodi:cy="473.79075"
-       sodipodi:r1="178.02201"
-       sodipodi:r2="89.011006"
+       sodipodi:cy="473.79074"
+       sodipodi:r1="178.022"
+       sodipodi:r2="89.011009"
        sodipodi:arg1="1.1753879"
-       sodipodi:arg2="1.8037065"
+       sodipodi:arg2="1.9607861"
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="M 280,638.07645 190.88393,560.39835 76.373321,589.77312 122.7112,481.01485 59.388408,381.18609 l 117.754452,10.46179 75.37498,-91.07234 26.43837,115.22401 109.90709,43.54296 -101.41464,60.75057 z"
+       d="M 280,638.07645 177.58846,556.11818 47.142869,542.36217 129.10114,439.95063 l 13.756,-130.44559 102.41155,81.95827 130.44559,13.756 -81.95827,102.41154 z"
        inkscape:transform-center-x="-12.697282"
        inkscape:transform-center-y="-4.4647475" />
   </g>
